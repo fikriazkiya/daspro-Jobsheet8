@@ -14,5 +14,5 @@ public class Rectangle08 {
         System.out.println();
     }
     sc.close();
-}
+    }
 }
